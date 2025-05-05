@@ -40,14 +40,12 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql" /><br>
 </div>
-
+<!---
 <br/>
 <hr/>
-
 <h2 align="center">⚡ Support Me ⚡</h2>
-
 <div align="center">
 <a href='https://ko-fi.com/jyotidwi' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
 <br/>
+--->
