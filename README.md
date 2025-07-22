@@ -52,20 +52,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotidwi&" alt="jyotidwi" /></p
 
-
-<!--
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,docker,fastapi,firebase,nodejs,python,javascript,c,cpp,java,mysql,flask,flutter,gcp,go,linux,materialui,ps,powershell,py,redis,regex,rust,sqlite,react,bootstrap,html,css,vscode,github,figma,git,mongodb,vue&perline=7" />
-    <br>
-</div>
-
-<br/>
-<hr/>
-<h2 align="center">⚡ Support Me ⚡</h2>
-<div align="center">
-<a href='https://ko-fi.com/jyotidwi' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<br/>
--->
