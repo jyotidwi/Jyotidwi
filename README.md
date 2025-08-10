@@ -21,7 +21,11 @@
 
 - 📫 How to reach me **jyotsnanand.jnd2000@gmail.com**
 
+- ⚡ I enjoy Problem Solving
+
 - 💬 Ask me about **Nothing is better... or anything [here](https://github.com/jyotidwi/jyotidwi/issues)**
+
+- 🌆 My [portfollio](https://jyotsnananddwivedi-portfolio.vercel.app/) for More Info 
 
 - ⚡ Fun fact **There are over 700 coding languages**
 
