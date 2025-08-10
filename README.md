@@ -154,11 +154,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotidwi&" alt="jyotidwi" /></p>
 
 <br>
-
-<h3 align="left">My Contributions :</h3>
+-->
+<h2 align="left">My Contributions :</h2>
 <img src="https://raw.githubusercontent.com/Jyotidwi/Jyotidwi/output/snake.svg" alt="Snake animation" />
 </div>
--->
 
-
+ <h2> Thank you for visiting my profile </h2>                                                                                                                      
+ <table>
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                                                     
+        </tr>                                                                                             
+ </table>
 
